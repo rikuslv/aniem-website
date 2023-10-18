@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: rgb(22, 70, 191);
+}
+.back{
+    text-align: center;
+}
+
+a{
+    color: rgb(22, 70, 191);
+}
+
+p{
+    color: rgb(22, 70, 191);
+}

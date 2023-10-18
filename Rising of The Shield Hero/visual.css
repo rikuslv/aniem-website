@@ -1,0 +1,27 @@
+body{
+    background-color: greenyellow;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial;
+}
+h3{
+    text-align: center;
+    font-family: Arial;
+}
+
+p{
+    font-family: Arial;
+}
+
+a{
+    color: blue;
+    font-family: Arial;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
