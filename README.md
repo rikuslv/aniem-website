@@ -1,4 +1,4 @@
-Hey everyone, frst install or chack my code, please read this:
+Hey everyone, first install or chack my code, please read this:
 
 Correct file to open website it is ~anime_site.html
 
